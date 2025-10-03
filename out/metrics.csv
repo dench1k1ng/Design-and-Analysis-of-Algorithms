@@ -1,0 +1,3 @@
+algo,n,nanos,comparisons,swaps,allocations,maxDepth
+mergesort,100000,23776776,1764719,452881,100000,13
+quicksort,100000,18177363,1630461,655075,0,8
